@@ -5,7 +5,7 @@ const Nav = () => {
        <div>
         <nav className='light-blue darken-4'>
           <div className='container'>
-           <a className='brand-logo' href='/'>Mern Stack </a> 
+           <a className='brand-logo' href='/'> Bloc de Tareas</a> 
           </div>
 
         </nav>
